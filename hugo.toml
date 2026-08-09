@@ -1,6 +1,6 @@
 baseURL = "https://tekito.net"
 title = "tekito.net"
-languageCode = "ja-jp"
+locale = "ja-JP"
 theme = "hugo-coder"
 
 googleAnalytics = "G-6EEEPYHCGB"
