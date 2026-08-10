@@ -1,6 +1,6 @@
 baseURL = "https://tekito.net"
+locale = "ja-jp"
 title = "tekito.net"
-locale = "ja-JP"
 theme = "hugo-coder"
 
 googleAnalytics = "G-6EEEPYHCGB"
@@ -41,10 +41,14 @@ weight = 4
 url = "https://www.linkedin.com/in/rim-buei"
 
 [[menu.main]]
-name = "Blog"
+name = "Projects"
 weight = 1
+url = "projects/"
+[[menu.main]]
+name = "Posts"
+weight = 2
 url = "posts/"
 [[menu.main]]
 name = "RSS Feed"
-weight = 2
+weight = 3
 url = "index.xml"
