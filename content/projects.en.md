@@ -21,6 +21,8 @@ A Game Boy emulator implemented in Rust. It can be compiled to WebAssembly and r
 
 A hobby operating system developed for learning, following along with the Japanese book "[ゼロからの OS 自作入門](https://zero.osdev.jp/)". The goal is to gain a deeper understanding of how operating systems work by implementing the bootloader and kernel from scratch.
 
+![Proto OS screenshot](/projects/proto-os.gif)
+
 * **Language**: C++
 * **Development period**: March 2026 ~
 * **Source code**: [github.com/rim-buei/proto-os](https://github.com/rim-buei/proto-os)

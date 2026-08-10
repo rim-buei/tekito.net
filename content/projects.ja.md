@@ -21,6 +21,8 @@ Rust で実装した Game Boy エミュレータです。WebAssembly にコン�
 
 『[ゼロからの OS 自作入門](https://zero.osdev.jp/)』を写経しながら開発している、学習用の自作 OS です。ブートローダーやカーネルを実際に手を動かして実装し、OS の内部構造を理解することを目的としています。
 
+![Proto OS screenshot](/projects/proto-os.gif)
+
 - **開発言語**: C++
 - **開発期間**: 2026 年 3 月 ~
 - **ソースコード**: [github.com/rim-buei/proto-os](https://github.com/rim-buei/proto-os)
