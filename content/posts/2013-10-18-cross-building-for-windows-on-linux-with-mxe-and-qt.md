@@ -1,6 +1,6 @@
 +++
 date = 2013-10-18T00:00:00+09:00
-title = "MXE + Qt を使って Linux で Windows GUI アプリをクロスビルドする"
+title = 'MXE + Qt を使って Linux で Windows GUI アプリをクロスビルドする'
 +++
 
 ![Hello, Windows!](sample.jpg)

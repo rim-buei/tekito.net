@@ -1,58 +1,58 @@
-baseURL = "https://tekito.net"
-title = "tekito.net"
-theme = "hugo-coder"
+baseURL = 'https://tekito.net'
+title = 'tekito.net'
+theme = 'hugo-coder'
 
-locale = "en-us"
-defaultContentLanguage = "en"
+locale = 'en-us'
+defaultContentLanguage = 'en'
 
 enableEmoji = true
 
-googleAnalytics = "G-6EEEPYHCGB"
+googleAnalytics = 'G-6EEEPYHCGB'
 
 [pagination]
 pagerSize = 20
 
 [params]
-author = "rim-buei"
-info = ""
-description = ""
-keywords = "blog,developer"
-avatarURL = "images/avatar.jpg"
+author = 'rim-buei'
+info = ''
+description = ''
+keywords = 'blog,developer'
+avatarURL = 'images/avatar.jpg'
 since = 2010
 
-colorScheme = "auto"
+colorScheme = 'auto'
 hideColorSchemeToggle = false
 
 [[params.social]]
-name = "GitHub"
-icon = "fa-brands fa-github fa-2x"
+name = 'GitHub'
+icon = 'fa-brands fa-github fa-2x'
 weight = 1
-url = "https://github.com/rim-buei"
+url = 'https://github.com/rim-buei'
 [[params.social]]
-name = "X"
-icon = "fa-brands fa-x-twitter fa-2x"
+name = 'X'
+icon = 'fa-brands fa-x-twitter fa-2x'
 weight = 2
-url = "https://x.com/rim_buei"
+url = 'https://x.com/rim_buei'
 [[params.social]]
-name = "Steam"
-icon = "fa-brands fa-steam fa-2x"
+name = 'Steam'
+icon = 'fa-brands fa-steam fa-2x'
 weight = 3
-url = "https://steamcommunity.com/id/rim_buei"
+url = 'https://steamcommunity.com/id/rim_buei'
 [[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin-in fa-2x"
+name = 'LinkedIn'
+icon = 'fa-brands fa-linkedin-in fa-2x'
 weight = 4
-url = "https://www.linkedin.com/in/rim-buei"
+url = 'https://www.linkedin.com/in/rim-buei'
 
 [[menu.main]]
-name = "Projects"
+name = 'Projects'
 weight = 1
-url = "projects/"
+url = 'projects/'
 [[menu.main]]
-name = "Posts"
+name = 'Posts'
 weight = 2
-url = "posts/"
+url = 'posts/'
 [[menu.main]]
-name = "RSS Feed"
+name = 'RSS Feed'
 weight = 3
-url = "index.xml"
+url = 'index.xml'

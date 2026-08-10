@@ -1,6 +1,6 @@
 +++
 date = 2013-12-16T02:10:00+09:00
-title = "静的サイトジェネレータ Pelican で Blog を書こう"
+title = '静的サイトジェネレータ Pelican で Blog を書こう'
 +++
 
 先日ブログを Wordpress から [Pelican](http://getpelican.com/) に移行しました。

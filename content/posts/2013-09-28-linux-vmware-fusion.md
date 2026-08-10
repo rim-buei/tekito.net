@@ -1,6 +1,6 @@
 +++
 date = 2013-09-28T01:57:00+09:00
-title = "Linux 3.x の仮想マシンから VMware Fusion の共有フォルダが見えない"
+title = 'Linux 3.x の仮想マシンから VMware Fusion の共有フォルダが見えない'
 +++
 
 VMware Fusion 上の Linux 仮想マシンから Mac の共有フォルダが見えなくなることが、たびたび (Linux カーネルをアップデートするたび？) あります。

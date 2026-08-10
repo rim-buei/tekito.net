@@ -1,6 +1,6 @@
 +++
 date = 2026-08-10T13:00:00+09:00
-title = "Projects"
+title = 'Projects'
 +++
 
 Language: [:jp:](/projects.ja) | :us:

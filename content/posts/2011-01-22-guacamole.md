@@ -1,6 +1,6 @@
 +++
 date = 2011-01-22T04:26:00+09:00
-title = "Guacamole でウェブブラウザからデスクトップ環境を使ってみた"
+title = 'Guacamole でウェブブラウザからデスクトップ環境を使ってみた'
 +++
 
 [Guacamole](https://guacamole.apache.org/) はHTML5とAjaxで実現されたVNCクライアントです。
