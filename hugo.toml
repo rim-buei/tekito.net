@@ -28,16 +28,19 @@ name = 'GitHub'
 icon = 'fa-brands fa-github fa-2x'
 weight = 1
 url = 'https://github.com/rim-buei'
+
 [[params.social]]
 name = 'X'
 icon = 'fa-brands fa-x-twitter fa-2x'
 weight = 2
 url = 'https://x.com/rim_buei'
+
 [[params.social]]
 name = 'Steam'
 icon = 'fa-brands fa-steam fa-2x'
 weight = 3
 url = 'https://steamcommunity.com/id/rim_buei'
+
 [[params.social]]
 name = 'LinkedIn'
 icon = 'fa-brands fa-linkedin-in fa-2x'
@@ -48,11 +51,8 @@ url = 'https://www.linkedin.com/in/rim-buei'
 name = 'Projects'
 weight = 1
 url = 'projects/'
+
 [[menu.main]]
 name = 'Posts'
 weight = 2
 url = 'posts/'
-[[menu.main]]
-name = 'RSS Feed'
-weight = 3
-url = 'index.xml'
