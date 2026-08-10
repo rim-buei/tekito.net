@@ -1,7 +1,11 @@
 baseURL = "https://tekito.net"
-locale = "ja-jp"
 title = "tekito.net"
 theme = "hugo-coder"
+
+locale = "en-us"
+defaultContentLanguage = "en"
+
+enableEmoji = true
 
 googleAnalytics = "G-6EEEPYHCGB"
 

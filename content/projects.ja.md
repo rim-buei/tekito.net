@@ -3,6 +3,8 @@ date = 2026-08-10T13:00:00+09:00
 title = "Projects"
 +++
 
+Language: :jp: | [:us:](/projects.en)
+
 これまでに個人で開発してきたソフトウェアをまとめています。
 
 # Game Boy Emulator
