@@ -14,6 +14,7 @@ Rust で実装した Game Boy エミュレータです。WebAssembly にコン�
 ![Game Boy emulator screenshot](/projects/gameboy.png)
 
 - **開発言語**: Rust
+- **デモ**: [tekito.net/gameboy](https://tekito.net/gameboy)
 - **開発期間**: 2018 年 10 月 ~
 - **ソースコード**: [github.com/rim-buei/gameboy](https://github.com/rim-buei/gameboy)
 
