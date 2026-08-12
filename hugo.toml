@@ -23,6 +23,10 @@ since = 2010
 colorScheme = 'auto'
 hideColorSchemeToggle = false
 
+faviconSVG = 'images/favicon.svg'
+favicon_16 = 'images/favicon-16x16.png'
+favicon_32 = 'images/favicon-32x32.png'
+
 [[params.social]]
 name = 'GitHub'
 icon = 'fa-brands fa-github fa-2x'
