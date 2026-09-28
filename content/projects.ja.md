@@ -11,7 +11,7 @@ Language: :jp: | [:us:](/projects)
 
 Rust で実装した Game Boy エミュレータです。WebAssembly にコンパイルすることで、ブラウザ上で動作します。
 
-![Game Boy emulator screenshot](/projects/gameboy.png)
+[![Game Boy emulator screenshot](/projects/gameboy.png)](https://tekito.net/gameboy)
 
 - **開発言語**: Rust
 - **デモ**: [tekito.net/gameboy](https://tekito.net/gameboy)

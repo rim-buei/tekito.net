@@ -11,11 +11,11 @@ This page showcases software projects I have developed as personal projects.
 
 A Game Boy emulator implemented in Rust. It can be compiled to WebAssembly and run directly in a web browser.
 
-![Game Boy emulator screenshot](/projects/gameboy.png)
+[![Game Boy emulator screenshot](/projects/gameboy.png)](https://tekito.net/gameboy)
 
 - **Language**: Rust
 - **Demo**: [tekito.net/gameboy](https://tekito.net/gameboy)
-- **Development period**: October 2018 ~
+- **Development period**: October 2018 -
 - **Source code**: [github.com/rim-buei/gameboy](https://github.com/rim-buei/gameboy)
 
 # Proto OS
@@ -25,5 +25,5 @@ A hobby operating system developed for learning, following along with the Japane
 ![Proto OS screenshot](/projects/proto-os.gif)
 
 - **Language**: C++
-- **Development period**: March 2026 ~
+- **Development period**: March 2026 -
 - **Source code**: [github.com/rim-buei/proto-os](https://github.com/rim-buei/proto-os)
