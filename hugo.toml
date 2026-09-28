@@ -52,11 +52,16 @@ weight = 4
 url = 'https://www.linkedin.com/in/rim-buei'
 
 [[menu.main]]
-name = 'Projects'
+name = 'Profile'
 weight = 1
+url = 'profile/'
+
+[[menu.main]]
+name = 'Projects'
+weight = 2
 url = 'projects/'
 
 [[menu.main]]
 name = 'Posts'
-weight = 2
+weight = 3
 url = 'posts/'
