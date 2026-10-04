@@ -8,5 +8,8 @@
     "enabled": true
   },
   "minimumReleaseAge": "7 days",
-  "minimumReleaseAgeBehaviour": "timestamp-optional"
+  "minimumReleaseAgeBehaviour": "timestamp-optional",
+
+
+  "rangeStrategy": "pin"
 }
